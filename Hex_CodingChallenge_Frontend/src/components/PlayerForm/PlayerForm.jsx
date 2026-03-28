@@ -53,7 +53,6 @@ function PlayerForm() {
         <div className="container mt-5">
             <h2 className="text-center mb-4">Cricket Player Entry</h2>
             
-            {/* Form Section */}
             <form onSubmit={handleSubmit} className="shadow p-4 bg-light rounded border">
                 <div className="row g-3">
                     <div className="col-md-6">
